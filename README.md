@@ -25,6 +25,8 @@
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-12-03/blob/main/files/101.jpg)
+
 ---
 
 ### Задание 2
@@ -33,6 +35,8 @@
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-12-03/blob/main/files/201.jpg)
+
 ---
 
 ### Задание 3
@@ -40,6 +44,8 @@
 Получите последние пять аренд фильмов.
 
 ### Ответ на задание 3
+
+![](https://github.com/alexei-golovin/SYS-23-12-03/blob/main/files/301.jpg)
 
 ---
 
@@ -52,6 +58,8 @@
 - замените буквы 'll' в именах на 'pp'.
 
 ### Ответ на задание 4
+
+![](https://github.com/alexei-golovin/SYS-23-12-03/blob/main/files/401.jpg)
 
 ---
 
